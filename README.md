@@ -83,7 +83,7 @@ Every page can have an unlimited number of metadata fields. More information [he
 The most important of them are the page template (e.g. `layout: reference`) and its type (e.g. `type: tutorial`). `category` and `title` fields are added for future development.
 
 
-## Writing an content
+## Writing new content
 
 ### Markup
 
